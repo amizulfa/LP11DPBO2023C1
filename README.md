@@ -1,6 +1,6 @@
 # LP11DPBO2023C1
 ## Janji
-> Saya Amida Zulfa Laila dengan NIM 2101147 mengerjakan Latihan Praktikum 9 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+> Saya Amida Zulfa Laila dengan NIM 2101147 mengerjakan Latihan Praktikum 11 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Requirement Soal
 Buatlah fitur CRUD untuk tabel yang sudah disediakan, dan tampilkan 2 kolom baru yaitu kolom email dan telepon yang sudah ada pada database dengan menggunakan MVP
